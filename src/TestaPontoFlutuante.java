@@ -8,6 +8,7 @@ public class TestaPontoFlutuante {
 		
 		//isso funciona porque um inteiro cabe dentro de um double. O contrário, não!!!
 		double idade = 37;
+		System.out.println(idade);
 		
 		double divisao = 3.14 / 2;
 		System.out.println(divisao);
