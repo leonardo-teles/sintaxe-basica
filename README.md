@@ -9,4 +9,4 @@ Tópicos Abordados:
    - Praticando condicionais
    - Controlando fluxo com laços
 
-<a href="https://cursos.alura.com.br/certificate/0bb43857-91aa-4c01-a3a0-c110f8b52dec" target="_blank">Certificado</a>
+<a href="https://cursos.alura.com.br/certificate/0bb43857-91aa-4c01-a3a0-c110f8b52dec" rel="noopener">Certificado</a>
